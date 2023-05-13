@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\bin\Debug\net6.0\Liskov-Substitution.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\bin\Debug\net6.0\Liskov-Substitution.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\bin\Debug\net6.0\Liskov-Substitution.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\bin\Debug\net6.0\Liskov-Substitution.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\bin\Debug\net6.0\Liskov-Substitution.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\refint\Liskov-Substitution.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\Liskov-Substitution.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Liskov-Substitution\obj\Debug\net6.0\ref\Liskov-Substitution.dll

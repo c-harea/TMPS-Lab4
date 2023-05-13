@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\bin\Debug\net6.0\Single-Responsibility.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\bin\Debug\net6.0\Single-Responsibility.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\bin\Debug\net6.0\Single-Responsibility.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\bin\Debug\net6.0\Single-Responsibility.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\bin\Debug\net6.0\Single-Responsibility.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\refint\Single-Responsibility.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\Single-Responsibility.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Single-Responsibility\obj\Debug\net6.0\ref\Single-Responsibility.dll

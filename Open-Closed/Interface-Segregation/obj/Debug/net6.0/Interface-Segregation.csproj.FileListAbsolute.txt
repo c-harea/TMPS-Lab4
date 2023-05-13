@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\bin\Debug\net6.0\Interface-Segregation.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\bin\Debug\net6.0\Interface-Segregation.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\bin\Debug\net6.0\Interface-Segregation.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\bin\Debug\net6.0\Interface-Segregation.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\bin\Debug\net6.0\Interface-Segregation.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\refint\Interface-Segregation.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\Interface-Segregation.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Interface-Segregation\obj\Debug\net6.0\ref\Interface-Segregation.dll

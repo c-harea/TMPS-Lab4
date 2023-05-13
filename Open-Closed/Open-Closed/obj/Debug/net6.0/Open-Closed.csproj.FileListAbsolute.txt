@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\bin\Debug\net6.0\Open-Closed.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\bin\Debug\net6.0\Open-Closed.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\bin\Debug\net6.0\Open-Closed.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\bin\Debug\net6.0\Open-Closed.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\bin\Debug\net6.0\Open-Closed.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\refint\Open-Closed.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\Open-Closed.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Open-Closed\obj\Debug\net6.0\ref\Open-Closed.dll

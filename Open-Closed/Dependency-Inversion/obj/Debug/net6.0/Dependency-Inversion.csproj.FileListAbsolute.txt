@@ -1,0 +1,15 @@
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\bin\Debug\net6.0\Dependency-Inversion.exe
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\bin\Debug\net6.0\Dependency-Inversion.deps.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\bin\Debug\net6.0\Dependency-Inversion.runtimeconfig.json
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\bin\Debug\net6.0\Dependency-Inversion.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\bin\Debug\net6.0\Dependency-Inversion.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.csproj.AssemblyReference.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.AssemblyInfoInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.AssemblyInfo.cs
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.csproj.CoreCompileInputs.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\refint\Dependency-Inversion.dll
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.pdb
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\Dependency-Inversion.genruntimeconfig.cache
+D:\Docs\UTM Folder\Anul 3\TMPS\Lab4\Open-Closed\Dependency-Inversion\obj\Debug\net6.0\ref\Dependency-Inversion.dll
